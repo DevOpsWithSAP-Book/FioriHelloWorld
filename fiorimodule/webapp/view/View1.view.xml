@@ -1,0 +1,11 @@
+<mvc:View controllerName="fiorimodule.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="Fiori Hello World">
+        <content>
+        	<VBox class="sapUiMediumMargin">
+		<FormattedText htmlText="{/HTML}"/>
+	</VBox>
+        </content>
+    </Page>
+</mvc:View>
